@@ -1,4 +1,4 @@
-const controllers = require('controllers');
+const controllers = require('./controllers');
 
 const router = (app) => {
   app.get('/login', controllers.Account.loginPage);
