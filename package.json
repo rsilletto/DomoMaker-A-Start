@@ -39,6 +39,7 @@
     "helmet": "^7.1.0",
     "mongoose": "^8.2.3",
     "redis": "^4.6.13",
+    "router": "^2.2.0",
     "serve-favicon": "^2.5.0",
     "underscore": "^1.13.6"
   }
