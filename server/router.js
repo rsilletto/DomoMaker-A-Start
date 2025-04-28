@@ -15,4 +15,4 @@ const router = (app) => {
   app.get('/', controllers.Account.loginPage);
 };
 
-module.exports = { router };
+module.exports = router;
